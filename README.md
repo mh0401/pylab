@@ -5,7 +5,6 @@ Laboratory for anything Python 3.5.x
 1. Auto-documentation using doxygen
 2. The actual pylab library.
 3. The testing of pylab.
-4. ONFI (Modelio UML design of Digital Waveform Pattern Generator)
 
 ## Requirements
 * IDE: Eclipse w/ Pydev
